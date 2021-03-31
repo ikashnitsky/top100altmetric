@@ -10,11 +10,11 @@ Beware that the methodology of the list changed in 2020 -- due to the publicatio
 
 # Source data files
 
-2013 -- https://doi.org/10.6084/m9.figshare.5932729.v3
-2014 -- https://doi.org/10.6084/m9.figshare.7378310.v1
-2015 -- https://doi.org/10.6084/m9.figshare.1613288.v1
-2016 -- https://doi.org/10.6084/m9.figshare.4294073.v3
-2017 -- https://doi.org/10.6084/m9.figshare.5683957
-2018 -- https://doi.org/10.6084/m9.figshare.7441304.v1
-2019 -- https://doi.org/10.6084/m9.figshare.11371860.v3
-2020 -- https://doi.org/10.6084/m9.figshare.13607312.v2
+2013 -- https://doi.org/10.6084/m9.figshare.5932729.v3  
+2014 -- https://doi.org/10.6084/m9.figshare.7378310.v1  
+2015 -- https://doi.org/10.6084/m9.figshare.1613288.v1  
+2016 -- https://doi.org/10.6084/m9.figshare.4294073.v3  
+2017 -- https://doi.org/10.6084/m9.figshare.5683957  
+2018 -- https://doi.org/10.6084/m9.figshare.7441304.v1  
+2019 -- https://doi.org/10.6084/m9.figshare.11371860.v3  
+2020 -- https://doi.org/10.6084/m9.figshare.13607312.v2  
