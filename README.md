@@ -18,3 +18,8 @@ Beware that the methodology of the list changed in 2020 -- due to the publicatio
 2018 -- https://doi.org/10.6084/m9.figshare.7441304.v1  
 2019 -- https://doi.org/10.6084/m9.figshare.11371860.v3  
 2020 -- https://doi.org/10.6084/m9.figshare.13607312.v2  
+
+
+# Altmetric score methodology
+
+https://help.altmetric.com/support/solutions/articles/6000233311-how-is-the-altmetric-attention-score-calculated-
