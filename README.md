@@ -8,6 +8,9 @@ https://www.altmetric.com/top100/home/
 
 Beware that the methodology of the list changed in 2020 -- due to the publication imbalances caused by COVID-19, the top-100 for 2020 in fact consists of 20 top-5 lists for research domains, more details in this [press release](https://www.altmetric.com/top100/2020/press-release.pdf). 
 
+**UPD**. 2020 was the last year when Altmetric published its top-100 list, see [news here](https://www.altmetric.com/altmetric-news/re-imagining-the-top-100)
+
+
 # Source data files
 
 2013 -- https://doi.org/10.6084/m9.figshare.5932729.v3  
