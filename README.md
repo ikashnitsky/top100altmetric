@@ -8,7 +8,7 @@ https://www.altmetric.com/top100/home/
 
 The methodology of the list changed in 2020 -- due to the publication imbalances caused by COVID-19, the top-100 for 2020 in fact consists of 20 top-5 lists for research domains, more details in this [press release](https://www.altmetric.com/top100/2020/press-release.pdf). 2020 was the last year when Altmetric published its top-100 list, see [news here](https://www.altmetric.com/altmetric-news/re-imagining-the-top-100). 2021 list was published separately as part of the discussion around the changing methodology of the top-100 calculation, [see this blog post](https://www.altmetric.com/blog/top-100-2021-the-old-school-remix/).
 
-![](out/attention-score.pdf)
+![](/out/attention-score.pdf)
 
 
 # Source data files
