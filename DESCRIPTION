@@ -1,11 +1,18 @@
 Package: top100altmetric
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Yearly Altmetric top-100 data, ready for R
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Authors@R: c(
+    person("Ilya", "Kashnitsky", role = c("aut", "cre"), email = "ilya.kashnitsky@gmail.com", comment = c(ORCID = "0000-0003-1835-8687"))
+    )
+Maintainer: Ilya Kashnitsky <ilya.kashnitsky@gmail.com>
+Description: Yearly list of the most noticed scientific papers as tracked by Altmetric, 2013--2021
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Depends: 
+    R (>= 3.5.0)
+Imports:
+    tidyverse
+RoxygenNote: 7.2.3
+

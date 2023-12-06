@@ -30,3 +30,4 @@ altmetric_weights <- tibble::tribble(
 
 
 save(altmetric_weights, file = "out/altmetric_weights.rda")
+%>%
